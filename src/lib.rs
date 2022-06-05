@@ -1,5 +1,5 @@
 
-use log::{ Level, log_enabled };
+use log::Level;
 
 pub mod utils;
 pub mod file_finder;
