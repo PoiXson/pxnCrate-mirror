@@ -1,0 +1,6 @@
+pxnCrate - Common rust library for PoiXson projects
+
+
+2022-06-05 - 0.1.1
+==================
+* initial release
