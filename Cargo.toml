@@ -1,0 +1,14 @@
+[package]
+name = "pxn_crate"
+version = "0.1.0"
+license = "GPLv3"
+edition = "2021"
+description = "Common library for PoiXson projects"
+repository = "https://github.com/PoiXson/pxnCrate-mirror.git"
+
+[dependencies]
+log        = "*"
+env_logger = "*"
+log-panics = "*"
+tempfile   = "*"
+chrono     = "*"
