@@ -7,8 +7,8 @@ description = "Common library for PoiXson projects"
 repository = "https://github.com/PoiXson/pxnCrate-mirror.git"
 
 [dependencies]
-log        = "*"
-env_logger = "*"
-log-panics = "*"
-tempfile   = "*"
-chrono     = "*"
+log        = "0.*"
+env_logger = "0.*"
+log-panics = "2.*"
+tempfile   = "3.*"
+chrono     = "0.*"
