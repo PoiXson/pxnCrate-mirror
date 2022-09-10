@@ -1,6 +1,12 @@
 pxnCrate - Common rust library for PoiXson projects
 
 
+2022-09-10 - 0.1.3
+==================
+* changing license from GPL3 to AGPL3
+* updated dependencies
+
+
 2022-07-21 - 0.1.2
 ==================
 * fixed and updated dependency versions
