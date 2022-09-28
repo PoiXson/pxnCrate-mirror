@@ -211,7 +211,7 @@ dependencies = [
 
 [[package]]
 name = "pxn_crate"
-version = "0.1.1"
+version = "0.1.0"
 dependencies = [
  "chrono",
  "env_logger",
