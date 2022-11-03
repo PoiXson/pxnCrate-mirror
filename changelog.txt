@@ -1,6 +1,11 @@
 pxnCrate - Common rust library for PoiXson projects
 
 
+2022-11-03 - 0.1.5
+==================
+* updated dependencies
+
+
 2022-09-28 - 0.1.4
 ==================
 * added stdout_flush() function
