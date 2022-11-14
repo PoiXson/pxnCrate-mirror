@@ -22,8 +22,7 @@
 use log::Level;
 use std::io::Write;
 
-pub mod utils;
-pub mod file_finder;
+use env_logger;
 
 
 
