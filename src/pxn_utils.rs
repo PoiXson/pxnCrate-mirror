@@ -38,7 +38,7 @@ pub fn print_type_of<T>(_: T) {
 
 
 
-pub fn pxn_init_logging(verbose: i8, quiet: i8) {
+pub fn init_logging(verbose: i8, quiet: i8) {
 	let verbosity: i8 = verbose - quiet;
 	{
 		let lvl = match verbosity {
